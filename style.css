@@ -124,7 +124,7 @@
             justify-content: space-around;
             border: 2px solid blue;
             background-color: orange;
-            height: 250px;
+            height: 300px;
             align-content: space-between;
             overflow-x: scroll;
             overflow-y: hidden;
@@ -149,5 +149,12 @@
 
         .formulario{
             text-align: center;
-            padding:10px
+            padding:10px;
+        }
+
+        .formulario-btn{
+            height:75px;
+            width: 150px;
+            background-color: orange;
+            color: white;
         }
